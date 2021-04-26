@@ -1,1 +1,13 @@
-{"Version":1.0,"Title":"更新测试","Url":"https://lianglu.lanzous.com/b01sys4yf","Content":"更新内容测试"}
+{
+  "Version":7.1,
+  "Title":"比较大的更新",
+  "Content":"重写了手册大部分逻辑\n夜间模式更完善\n去除A屏黑\n更新手册数据内容",
+  "Url":"https://lianglu.lanzous.com/b01sys4yf",
+  "DowUrl":"https://cdn.jsdelivr.net/gh/Robin2233/AndroLuaCode/AndroLuaCode.apk",
+  "dbVersion":1.0,
+  "dbTitle":"数据库有更新",
+  "dbContent":"手册基本数据",
+  "dbUrl":"https://cdn.jsdelivr.net/gh/Robin2233/AndroLuaCode/assets/Lua.db",
+  "msgVersion":1.0,
+  "msgContent":"测试公告"
+}
