@@ -6,7 +6,7 @@
   "DowUrl":"https://cdn.jsdelivr.net/gh/Robin2233/AndroLuaCode/AndroLuaCode.apk",
   "Size":3.5,
   "Md5":"abc",
-  "dbVersion":1.1,
+  "dbVersion":2,
   "dbTitle":"数据库有更新",
   "dbContent":"测试更新",
   "dbUrl":"https://cdn.jsdelivr.net/gh/Robin2233/AndroLuaCode/assets/Lua.db",
