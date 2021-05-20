@@ -1,7 +1,7 @@
 {
   "Version":7.3,
   "Title":"小更新",
-  "Content":"修复搜索结果查看错误\n修复发帖调试错误\n数据库可在线更新\n更新手册数据内容",
+  "Content":"更换打包，解决QQ报毒\n帖子运行设置md主题\n启动界面\n数据库更新逻辑",
   "Url":"https://lianglu.lanzoui.com/b01swfsgb",
   "DowUrl":"https://cdn.jsdelivr.net/gh/Robin2233/AndroLuaCode/AndroLuaCode.apk",
   "Size":5.8,
